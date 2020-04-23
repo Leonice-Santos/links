@@ -1,0 +1,169 @@
+body{
+	font-family: Verdana, sans-serif;
+	font-size: 30px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/seriados.jpg);
+}
+
+h1{
+	color: rgb(145, 31, 156);
+}
+
+.black{
+	color: rgb(214, 100, 47);
+	font-weight: bold;
+}
+
+.black:hover{
+	color: green;
+	background: pink;
+	border: 2px dashed blue;
+}
+
+.black:visited{
+	color: rgb(110, 2, 47);
+}
+
+.black:active{
+	font-size: 200%;
+	border: 3px solid black;
+}
+
+
+.suits{
+	color: rgb(92, 1, 5);
+	font-weight: bold;
+}
+
+.suits:hover{
+	color: rgb(93, 91, 245);
+	background: rgb(91, 245, 178);
+	border: 2px dotted red;
+}
+
+.suits:visited{
+	color: rgb(224, 245, 91);
+}
+
+.suits:active{
+	font-size: 200%;
+	border: 3px dotted black;
+}
+
+.greys{
+	color: rgb(80, 143, 87);
+	font-weight: bold;
+}
+
+.greys:hover{
+	color: rgb(81, 99, 153);
+	background: rgb(150, 80, 108);
+	border: 2px solid rgb(153, 139, 145)
+}
+
+.greys:visited{
+	color: rgb(129, 63, 191);
+}
+
+.greys:active{
+	font-size: 200%;
+	border: 3px dashed black;
+}
+
+.how{
+	color: rgb(245, 2, 160);
+	font-weight: bold;
+}
+
+.how:hover{
+	color: rgb(245, 2, 160);
+	background: rgb(115, 2, 245);
+	border: 2px dashed rgb(115, 2, 245)
+}
+
+.how:visited{
+	color: rgb(219, 70, 75);
+}
+
+.how:active{
+	font-size: 200%;
+	border: 3px solid black;
+}
+.lie{
+	color: rgb(140, 104, 50);
+	font-weight: bold;
+}
+
+.lie:hover{
+	color: rgb(51, 255, 5);
+	background: rgb(34, 171, 96);
+	border: 2px dotted rgb(3, 230, 255)
+}
+
+.lie:visited{
+	color: rgb(39, 12, 242);
+}
+
+.lie:active{
+	font-size: 200%;
+	border: 3px dotted black;
+}
+
+.scandal{
+	color: rgb(170, 10, 245);
+	font-weight: bold;
+}
+
+.scandal:hover{
+	color: rgb(245, 7, 79);
+	background-color: rgb(7, 245, 213);
+	border: 2px dashed rgb (174, 245, 7)
+}
+
+.scandal:visited{
+	color: rgb(245, 7, 162);
+}
+
+.scandal:active{
+	font-size: 200%;
+	border: 3px dotted black;
+}
+
+.la-casa{
+	color: rgb(242, 230, 12);
+	font-weight: bold;
+}
+
+.la-casa:hover{
+	color: rgb(0, 252, 189);
+	background: rgb(252, 134, 0);
+	border-radius: 2px solid red;
+}
+
+.la-casa:visited{
+	color: rgb(252, 0, 55);
+	border: 3px dashed rgb(13, 0, 252);
+}
+
+.la-casa:active{
+	font-size: 200%;
+	border: 3px dotted black;
+}
+
+.campo{
+	margin-top: 5px;
+	font-size: 100px;
+}
+
+.campo:hover{
+	background: rgb(43, 220, 255);
+	color: rgb(222, 35, 194);
+	margin-top: 100px;
+}
+
+.campo:focus{
+	background: black;
+	color: white;
+}
+
+
+
